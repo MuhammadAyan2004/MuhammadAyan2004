@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ayan</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+# Hi there, I'm Muhammad Ayan! 👋
+
+Welcome to my GitHub profile! I'm passionate about software development, open-source contributions, and continuous learning. Here's a bit about me:
+
+## 🚀 About Me
+- 🔭 I’m currently working on various open-source projects.
+- 🌱 I’m constantly learning and improving my skills in full-stack development.
+- 👯 I’m looking to collaborate on innovative and impactful projects.
+- 💬 Ask me about web development.
+- 📫 How to reach me: [m101ayan@gmail.com](mailto:m101ayan@gmail.com)
+
 <img align="right" width="400px" alt="coding" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
-- 🌱 I’m currently learning **JavaScript**
-
-- 💬 Ask me about **Html,Css,JavaScript**
-
-- 📫 How to reach me **m101ayan@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammad-ayan-415aa4293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-ayan-415aa4293" height="30" width="40" /></a>
