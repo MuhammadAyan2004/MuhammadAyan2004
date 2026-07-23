@@ -14,23 +14,10 @@ I'm a Software Engineering student passionate about building modern, scalable, a
 
 ## 🛠️ Technologies & Tools
 
-### Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
-### Frontend Development
-<p align="left">
   <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,vite" />
-</p>
-
-### Backend & Databases
-<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
-
-### Tools & Platforms
-<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
